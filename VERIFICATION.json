@@ -61,5 +61,12 @@
       ],
       "hardware_tested": false
     }
-  ]
+  ],
+  "backup_relocation_check": {
+    "project": "E6 default",
+    "target": "esp32s31",
+    "build_exit_code": 0,
+    "uses_fresh_build_directory": true,
+    "hardware_tested": false
+  }
 }
