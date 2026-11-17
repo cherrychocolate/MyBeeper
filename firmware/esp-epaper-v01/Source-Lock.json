@@ -1,0 +1,96 @@
+{
+  "url": "https://files.waveshare.com/wiki/3.6inch_e-Paper_HAT%2B_E/3.6inch_e-Paper_E.zip",
+  "archive_sha256": "6ff601ee09862ed96465b7722f4670ba39edd9844ac8769b241de0e48c1f0ef2",
+  "files": [
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/Debug.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/Debug.h",
+      "sha256": "3280e92b3420419a185cf3e3b218596296fa5cc8dbaf09a9aff2a4ce69ae40b2"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/DEV_Config.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/DEV_Config.cpp",
+      "sha256": "be4c337022b3abcbabd0c1a7590c786796fbde506b8cc2a8e2ec44970a5d4373"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/DEV_Config.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/DEV_Config.h",
+      "sha256": "f85ebd1c51c47ae2dd4dcf3e4bd32dbcb3bf2781d5743693782a3a6835ada21f"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/EPD_3in6e.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/EPD_3in6e.cpp",
+      "sha256": "832dd0d9f9c3d6c0ab36d68216a5430a1e19490e0ea7b5299b04afeee3f5bb5f"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/EPD_3in6e.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/EPD_3in6e.h",
+      "sha256": "dbf0172900ff8a68bbef19dfb725f368a3a1a0a23ffcbcdebf04d1764239459d"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/ESP32.ino",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/ESP32.ino",
+      "sha256": "e927e2f967dbd3888124c7bfbc93d4b297e6ea4a762ff0714c8c52c7798e5fd0"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font12.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font12.cpp",
+      "sha256": "3f832c696d01d0c2dd9ac6d903aac6d094dbc4652ba43666fa48ad1c0250d0ae"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font12CN.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font12CN.cpp",
+      "sha256": "6a60d7eefac58a5559b7abb50726f7f92c96183d2fa564b2de367688841f846c"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font16.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font16.cpp",
+      "sha256": "d65230d24834ea8baf2e46a53decba7a3ec08db4a9c4794bf141bbddb0d3e13c"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font20.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font20.cpp",
+      "sha256": "df299da8b0c27673323608be3bb50561231d563ba50ceb652d718350674a81ac"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font24.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font24.cpp",
+      "sha256": "4185a17f98ca85f080dd677af4ba0befb2b5081528646e475e70af106f41fdfe"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font24CN.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font24CN.cpp",
+      "sha256": "b8ddfede25b0f741cbe62a4fc078a8e3cf50797448dd761d53b91a7afe5e4a26"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/font8.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/font8.cpp",
+      "sha256": "392c7adf7ccf4ff48e7143cac8ce8f0b1bd5e874ab0c7f594ccf3c536a21d807"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/fonts.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/fonts.h",
+      "sha256": "724a6bd638125644fb2def6ba9e9442e8e9b65dd1403f3f33f61e98162fe27c9"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/GUI_Paint.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/GUI_Paint.cpp",
+      "sha256": "172f423ef317ef14accd5e89f11359bf23e604541f35fede6f2a0371adc4ad8f"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/GUI_Paint.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/GUI_Paint.h",
+      "sha256": "a89e34c357f3b220446efdec6629adcff3237b5ca2e2607600dac7414b950443"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/ImageData.cpp",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/ImageData.cpp",
+      "sha256": "555a4f05168ffab3f4a26dc8e8fcb5d111f8fc1a0f2ce4220723690e1d0c4db8"
+    },
+    {
+      "archive_path": "3.6inch_e-Paper_E/ESP32/ImageData.h",
+      "saved": "outputs/ai-id-card/esp-epaper-v01/vendor/ImageData.h",
+      "sha256": "47aa9c0883bc6f32108273e09f36fffe7fd263308f1f6b87c6f18c97a70c6274"
+    }
+  ]
+}

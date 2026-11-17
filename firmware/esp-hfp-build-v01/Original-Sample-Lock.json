@@ -1,0 +1,126 @@
+{
+  "commit": "fff9895c82d744c7237be8847347bdd1b07c6643",
+  "source": "https://github.com/espressif/esp-idf/tree/fff9895c82d744c7237be8847347bdd1b07c6643/examples/bluetooth/bluedroid/classic_bt/hfp_hf",
+  "files": [
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/CMakeLists.txt",
+      "copy_path": "project/CMakeLists.txt",
+      "bytes": 365,
+      "sha256": "d2b3bf0bda87a3874f40ee74862a5af5c5b447fe2b909669e755cf761d43b0ed"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/README.md",
+      "copy_path": "project/README.md",
+      "bytes": 16236,
+      "sha256": "9c767941ca3daa74511c873e7e68b14f4f3413a58899e12ffeb2d91171697d57"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/CMakeLists.txt",
+      "copy_path": "project/main/CMakeLists.txt",
+      "bytes": 383,
+      "sha256": "ecffbe320f25b4017eca7724b6b208c031ea5eec456234a2364f8e9597285b43"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/Kconfig.projbuild",
+      "copy_path": "project/main/Kconfig.projbuild",
+      "bytes": 925,
+      "sha256": "d43df364a16f16726770acde918dbb7a1ce8fc6ab074ddb02556b8e765d73837"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/app_hf_msg_set.c",
+      "copy_path": "project/main/app_hf_msg_set.c",
+      "bytes": 14854,
+      "sha256": "05ae782cd164b0df094e6f2a801b1bba6e66b6275448dcb3cefd75cbf5c823cc"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/app_hf_msg_set.h",
+      "copy_path": "project/main/app_hf_msg_set.h",
+      "bytes": 428,
+      "sha256": "ba19af389ed60628da855803a6f6b865a6febdfcbb98bf3f82e17597eed9ed15"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_core.c",
+      "copy_path": "project/main/bt_app_core.c",
+      "bytes": 3790,
+      "sha256": "5d97c0c1a2102ba92eb02ee43d62c04b112b719d317878370e4dc5adf97ade95"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_core.h",
+      "copy_path": "project/main/bt_app_core.h",
+      "bytes": 1472,
+      "sha256": "d4fee9f2862103de2fdabd43ef912339fe96e4667b276ddd1d62ebb0c4e32589"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_hf.c",
+      "copy_path": "project/main/bt_app_hf.c",
+      "bytes": 16505,
+      "sha256": "283034a813d2a7c0112aea5fd9d8850c770d16fc3aa731767379acb760fadb94"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_hf.h",
+      "copy_path": "project/main/bt_app_hf.h",
+      "bytes": 446,
+      "sha256": "88c75865bf060a2621b90cfdda8c2a099e474cce024b25ee5a3f1d5f9296c9c3"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_pbac.c",
+      "copy_path": "project/main/bt_app_pbac.c",
+      "bytes": 4724,
+      "sha256": "c95693e9b833c2f363295b37bda14549ba27da162dd5f32ee57dae169a8800aa"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/bt_app_pbac.h",
+      "copy_path": "project/main/bt_app_pbac.h",
+      "bytes": 248,
+      "sha256": "b557001fa27f92c590ca9532e6fa7d15cfdf04a15bc03b1885861fd6aa25e7a7"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/gpio_pcm_config.c",
+      "copy_path": "project/main/gpio_pcm_config.c",
+      "bytes": 3315,
+      "sha256": "227fc5d46373d7cbc631fbdb2e3d932c65961dc86dcd38976bff116ed6d94ead"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/gpio_pcm_config.h",
+      "copy_path": "project/main/gpio_pcm_config.h",
+      "bytes": 431,
+      "sha256": "72fb73f6113fc670b3cfcec40fa9c4be73e02edf16796deeebaf13772ebf7b3b"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/main/main.c",
+      "copy_path": "project/main/main.c",
+      "bytes": 10674,
+      "sha256": "b15efe567ea17774c788f04437290cbb7aa11ab42dcb56b73f07b334e229f5e2"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/sdkconfig.ci.all",
+      "copy_path": "project/sdkconfig.ci.all",
+      "bytes": 129,
+      "sha256": "24a61da054eb558cdf79ba2ec52e79dd3e732c1697a4291e6f40b10f2b77e266"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/sdkconfig.ci.extcodec",
+      "copy_path": "project/sdkconfig.ci.extcodec",
+      "bytes": 503,
+      "sha256": "4ddea2c9f4c616a0c97814c11b06bbfb27f79c30aae9773f6ff67e9da9614465"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/sdkconfig.ci.vohci",
+      "copy_path": "project/sdkconfig.ci.vohci",
+      "bytes": 412,
+      "sha256": "e80421cfeeb60f2f593da55c787c7a0b8d2eddd5a01c91751387a23efa9e8711"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/sdkconfig.defaults",
+      "copy_path": "project/sdkconfig.defaults",
+      "bytes": 332,
+      "sha256": "d2e18560862deeed576347ec667f6711eaec2353f1cd6d279961f14fbb5fa684"
+    },
+    {
+      "source_path": "examples/bluetooth/bluedroid/classic_bt/hfp_hf/sdkconfig.defaults.esp32s31",
+      "copy_path": "project/sdkconfig.defaults.esp32s31",
+      "bytes": 116,
+      "sha256": "221859c452dc0f6dc8075aa82d589439d04fbd347b53b92e970b3dfd35553110"
+    }
+  ]
+}

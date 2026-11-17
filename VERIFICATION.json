@@ -1,0 +1,65 @@
+{
+  "scope": "original source snapshot, independent project builds only; not runtime or integrated firmware acceptance",
+  "projects": [
+    {
+      "project": "esp-idf-e6-v01",
+      "target": "esp32s31",
+      "sdk_commit": "fff9895c82d744c7237be8847347bdd1b07c6643",
+      "configurations": [
+        {
+          "name": "default",
+          "exit_code": 0
+        },
+        {
+          "name": "bringup",
+          "exit_code": 0
+        }
+      ],
+      "hardware_tested": false
+    },
+    {
+      "project": "esp-hfp-build-v01",
+      "target": "esp32s31",
+      "sdk_commit": "fff9895c82d744c7237be8847347bdd1b07c6643",
+      "configurations": [
+        {
+          "name": "classic",
+          "exit_code": 0
+        },
+        {
+          "name": "dual",
+          "exit_code": 0
+        }
+      ],
+      "hardware_tested": false
+    },
+    {
+      "project": "esp-task-journal-v01",
+      "target": "esp32s31",
+      "sdk_commit": "fff9895c82d744c7237be8847347bdd1b07c6643",
+      "configurations": [
+        {
+          "name": "journal",
+          "exit_code": 0
+        }
+      ],
+      "hardware_tested": false
+    },
+    {
+      "project": "esp-audio-pcm-v01",
+      "target": "esp32s31",
+      "sdk_commit": "fff9895c82d744c7237be8847347bdd1b07c6643",
+      "configurations": [
+        {
+          "name": "pcm",
+          "exit_code": 0
+        },
+        {
+          "name": "probe",
+          "exit_code": 0
+        }
+      ],
+      "hardware_tested": false
+    }
+  ]
+}

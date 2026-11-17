@@ -1,0 +1,8 @@
+menu "ID Card audio engineering path"
+config IDC_AUDIO_CAPTURE_PROBE
+    bool "Initialize actual ES8388/I2S and capture bounded PCM at boot"
+    default n
+    help
+        Enable only after board power, external I2C pullups, AC-coupled LINE1,
+        codec address and I2S wiring review. Does not record a phone call.
+endmenu

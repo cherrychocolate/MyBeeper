@@ -1,0 +1,8 @@
+if(COMMAND idf_component_register)
+ idf_component_register(SRCS "epd_e6.c" INCLUDE_DIRS ".")
+else()
+ cmake_minimum_required(VERSION 3.16)
+ project(idc_e6 C)
+ add_library(idc_e6 epd_e6.c)
+ target_include_directories(idc_e6 PUBLIC .)
+endif()

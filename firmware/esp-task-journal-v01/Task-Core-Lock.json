@@ -1,0 +1,10 @@
+[
+  {
+    "source": "outputs/ai-id-card/esp-baseline-v01/firmware/task_core/task_core.c",
+    "sha256": "63cb83f74bb9779ce177b7528620d5462b80de1f70ca723a115f285170472092"
+  },
+  {
+    "source": "outputs/ai-id-card/esp-baseline-v01/firmware/task_core/task_core.h",
+    "sha256": "d73670f98f9a0201d60f520a31f974bb31b459374785f1b271dce6d90877cbad"
+  }
+]

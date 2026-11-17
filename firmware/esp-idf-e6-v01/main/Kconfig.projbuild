@@ -1,0 +1,8 @@
+menu "ID Card E6 engineering bring-up"
+config IDC_E6_RUN_ONCE
+    bool "Run physical E6 initialization/white-frame refresh at boot"
+    default n
+    help
+        Enable only after power, BUSY polarity, pinout and HAT wiring review.
+        This changes a real panel once per reboot. Not a production service.
+endmenu
